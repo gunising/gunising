@@ -8,7 +8,7 @@
 
 ### 🧑‍💻 About Me
 
-I’m a results-driven **Java Backend Developer** with **4.7+ years** of experience designing and building clean, scalable, and efficient backend systems using modern Java frameworks.
+I’m a results-driven **Java Backend Developer** with **4 years** of experience designing and building clean, scalable, and efficient backend systems using modern Java frameworks.
 
 🚀 I love solving real-world challenges through clean architecture and robust code. From building RESTful APIs to handling concurrency with multithreading — backend development is where I thrive.
 
